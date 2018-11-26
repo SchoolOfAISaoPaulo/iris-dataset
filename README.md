@@ -6,11 +6,12 @@ Esse repositório tem o objetivo de estudar e fazer análises de dados no reposi
 
 Você precisará do docker antes de começar a fazer seus notebooks.
 
--(Mac)[https://docs.docker.com/docker-for-mac/install/]
--(Ubuntu)[https://docs.docker.com/install/linux/docker-ce/ubuntu/]
--(Debian)[https://docs.docker.com/install/linux/docker-ce/debian/]
--(Fedora)[https://docs.docker.com/install/linux/docker-ce/fedora/]
--(Win)[https://docs.docker.com/docker-for-windows/install/]
+1. [Mac](https://docs.docker.com/docker-for-mac/install/)
+2. Linux
+  * [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+  * [Debian](https://docs.docker.com/install/linux/docker-ce/debian/)
+  * [Fedora](https://docs.docker.com/install/linux/docker-ce/fedora/)
+3. [Win](https://docs.docker.com/docker-for-windows/install/)
 
 
 
